@@ -16,5 +16,3 @@ Make the tests pass.
 <p class='util--hide'>View <a href='https://learn.co/lessons/what-is-github'>What Is GitHub? </a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/what-is-github'>What Is GitHub? </a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/what-is-github'>What Is GitHub? </a> on Learn.co and start learning to code for free.</p>
